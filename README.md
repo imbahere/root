@@ -10,7 +10,7 @@ sudo su
 Then copy this command.
 
 ```
-wget https://raw.githubusercontent.com/imbahere/root/master/root.sh.x && chmod +x root.sh.x && ./root.sh.x
+wget https://raw.githubusercontent.com/imbahere/root/master/root.sh && chmod +x root.sh && ./root.sh
 ```
 
 # Link Telegram
